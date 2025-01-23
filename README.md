@@ -36,9 +36,12 @@
 
 ###
 </br>
-<h3 align="left">-🎓 Studying Masters in IT at UNSW, Sydney </br>-🔭 Worked in Oracle Cloud for nearly 7 years</h2>
+<h3 align="left">-🎓 Studying Masters in IT at UNSW, Sydney </br>-🔭 Worked in Oracle Cloud for nearly 7 years</h3>
 <h3 align="left">Connect with me: 
-<a href="https://www.linkedin.com/in/deepeshbarmat/" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
-</a>
-</h2>
+  <a href="https://www.linkedin.com/in/deepeshbarmat/" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="20" width="20" />
+  </a>
+  <a href="https://leetcode.com/deepeshbarmat/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20" width="20" />
+  </a>
+</h3>
